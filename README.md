@@ -159,20 +159,6 @@ Comprehensive product performance view:
 
 ---
 
-### 13. 📊 Part-to-Whole Analysis
-
-* Contribution of categories to total revenue
-* Cumulative percentage (Pareto 80/20 rule)
-
----
-
-### 14. 🎯 Segmentation Analysis
-
-* Product segmentation (cost-based)
-* Customer segmentation (behavior-based)
-
----
-
 ## 📈 Key Business Insights
 
 ### 👑 Revenue Concentration
