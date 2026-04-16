@@ -4,6 +4,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+# macOS
+.DS_Store
+
 # Other files and folders
 .settings/
 
